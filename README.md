@@ -1,4 +1,4 @@
-How To modify environment variables or configuration settings for a IOT Edge module.
+How To modify environment variables or configuration settings of a 'running' IOT Edge module.
 
 Below are two screen shots on how to update an environment variable for your 'running' Azure IOT Edge Module.
 
