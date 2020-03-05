@@ -1,4 +1,4 @@
-Two screen shots on how to update only the environment variable for your Azure IOT Edge Module.
+Two screen shots on how to update an environment variable for your 'running' Azure IOT Edge Module.
 
 Note, in these screen shots we modify the IP of the 'webstream' module so that it matches the VisionAI Kit camera's DHCP assigned IP address. 
 
