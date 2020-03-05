@@ -11,3 +11,8 @@ Now verify that the environment variable has been changed, see screen shot:
 Note, the module ( container ) on the IOT Edge Device will restart and read in the new 'environment variable' setting(s) changed. 
 
 Enjoy. 
+
+Reference: 
+  https://stackoverflow.com/questions/59669319/modify-environment-variables-or-configurations-for-a-module-on-an-iot-edge-deplo/60537437#60537437
+  
+  
