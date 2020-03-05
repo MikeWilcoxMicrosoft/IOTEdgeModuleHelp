@@ -4,7 +4,7 @@ Below are two screen shots on how to update an environment variable for your 'ru
 
 Note, in these screen shots we modify the IP of the 'webstream' module so that it matches the VisionAI Kit camera's DHCP assigned IP address. The same info is posted on Stackoverflow, see References below.  
 
-!![image](https://user-images.githubusercontent.com/57420850/75941830-51c0a700-5e56-11ea-9316-c50d0a656e29.png)
+![image](https://user-images.githubusercontent.com/57420850/75941830-51c0a700-5e56-11ea-9316-c50d0a656e29.png)
 
 Now verify that the environment variable has been changed, see screen shot: 
 
